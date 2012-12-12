@@ -1,0 +1,16 @@
+remaining functionality
+
+on list
+    check to see if any/all can be cleared
+on open of activity in the past
+    alert - this reminder is past due
+    call/text/reschedule/dismiss
+
+also:
+where to close db?
+testing?
+ads?
+make pretty?
+autocomplete?
+history?
+display date with time?

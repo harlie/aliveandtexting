@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Alive and Texting</string>
+    <string name="no_reminders">No reminders yet</string>
+    <string name="menu_insert">Add Reminder</string>
+    <string name="menu_delete">Delete Reminder</string>
+    <string name="menu_edit">Edit Reminder</string>
+    
+    <string name="name">Name</string>
+    <string name="save_reminder">Save Reminder</string>
+    <string name="edit_reminder">Edit Reminder</string>
+    <string name="expecting">expecting a text</string>
+ 	<string name="sending">sending a text</string>
+    <string name="i_will_be">I will be:&#160;</string>
+    <string name="you_should_have_received">No text from</string>
+    <string name="you_should_have_sent">No text to</string>
+    <string name="by_time">before:&#160;</string>
+	<string name="containing_phrase">containing the phrase:</string>
+    <string name="from">from:&#160;</string>
+    <string name="to">to:&#160;</string>  
+    <string name="from_to">from/to </string>  
+    <string name="launch_contacts">&lt;click to select contact&gt;</string>
+    <string name="select_number">Select Phone Number</string>
+    <string name="no_numbers">There are no phone numbers for this contact</string>
+    <string name="err_missing_role">You must select a role</string>
+    <string name="err_missing_contact">You must select a contact</string>
+	<string name="err_missing_time">You must set a time</string>
+	<string name="err_missing_sound">You must set an alarm sound</string>
+	<string name="OK">OK</string>
+	<string name="sound">alert:&#160;</string>
+	<string name="pick_sound">&lt;click to choose sound&gt;</string>
+	<string name="shoulda_sent">You should\'ve sent a text to</string>
+	<string name="shoulda_got">You should\'ve received a text from</string>
+	<string name="but_didnt">but didn\'t.  Now what?</string>
+	<string name="delete">Delete</string>
+	<string name="reschedule">Reschedule</string>
+	<string name="text_now">Text now</string>
+	<string name="which_number">Which number?</string>
+</resources>
